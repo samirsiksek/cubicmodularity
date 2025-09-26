@@ -1,4 +1,4 @@
-# cubicmodularity
+# Elliptic curves over totally real cubic fields are modular
 The Magma programs in this folder are for verifying the computations in the paper:
 
 Elliptic curves over totally real cubic fields are modular
