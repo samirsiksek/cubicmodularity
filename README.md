@@ -8,4 +8,5 @@ by Derickx, Najman and Siksek
 There are two Magma files:
 
 Xb5b7.m		This verifies the computations in Section 5 of the paper.
+
 Xb5ns7.m 	This verifies the computations in Sections 6 and 7 of the paper.
